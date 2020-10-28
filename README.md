@@ -63,11 +63,11 @@ d) Dev tools
 ~~~
 
 ***Answers:***
-1.c
-2.a
-3.d, f, g
-4.c
-5.b
-6.a, c, d
-7.b
-8.a, c
+1. c
+2. a
+3. d, f, g
+4. c
+5. b
+6. a, c, d
+7. b
+8. a, c
